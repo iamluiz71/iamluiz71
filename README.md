@@ -2,8 +2,11 @@
 
 
 - 🔭 Atualmente, não estou trabalhando
-- 🌱 Estudando JavaScript
+
+- 🌱 Estudando Controle/IoT/JavaScript
+
 - 📫 Contate-me no e-mail: iamluiz71@gmail.com
+
 - ⚡ Fun fact: Gamer as "Shinobu"
 
 
